@@ -2,7 +2,7 @@
 
 ### Checkout to a milestone branch
 ```
-git checkout 分支名
+git checkout branch_name
 ```
 
 ### Project dependency installation
